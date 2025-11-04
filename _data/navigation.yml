@@ -9,10 +9,10 @@
 
 main:
   - title: "Funding & Publications"
-    url: /publications/
+    url: “{{ site.baseurl }}/publications/”
 
   - title: "Conferences"
-    url: /talks/    
+    url: “{{ site.baseurl }}/talks/“
 
   - title: "Teaching"
     url: /teaching/    
