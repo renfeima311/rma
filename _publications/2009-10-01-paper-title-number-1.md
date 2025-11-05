@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "dbPTM in 2022: an updated database for exploring regulatory networks and functional associations of protein post-translational modifications"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journals
+permalink: /publication/2022-01-dbptm-in-2022-updated-database-ptm-networks
+excerpt: "This update of the dbPTM database collates over 2.77 million PTM substrate sites (of which >2.235 million are experimentally verified), adds upstream regulatory relationships and functional annotations to support PTM regulatory-network and functional-association analyses." 
+date: 2022-01-07
+venue: "Nucleic Acids Research"
+paperurl: "https://academic.oup.com/nar/article/50/D1/D471/6426061" 
+citation: "Li, Z., Li, S., Luo, M., Jhong, J.H., Li, W., Yao, L., Pang, Y., Wang, Z., Wang, R., Ma, R. & Yu, J. (2022). “dbPTM in 2022: an updated database for exploring regulatory networks and functional associations of protein post-translational modifications.” *Nucleic Acids Research*, 50(D1), D471-D479."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
