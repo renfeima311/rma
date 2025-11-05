@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>
+<p style="margin-top:2em;"></p>
 
 Intro
 ======
@@ -16,7 +16,7 @@ Intro
 欢迎有志于生物医学工程、生物信息、生命科学及计算机交叉学科研究的同学联系报考硕士或博士研究生。
 
 
-<br><br>
+<p style="margin-top:2em;"></p>
 
 Funding
 ======
