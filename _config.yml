@@ -23,7 +23,8 @@ repository               : "renfeima311.github.io/rma/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
+  avatar           : "images/cvphoto.png"
   name             : "马仁飞"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer at Faculty of Biology"
