@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "KinasePhos 3.0: Redesign and expansion of the prediction on kinase-specific phosphorylation sites"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: journals
+permalink: /publication/2023-02-kinasephos-3-0-redesign-expansion
+excerpt: "This work enhances the tool KinasePhos by collecting 41,421 verified kinase‐specific phosphorylation sites across 1,380 kinases, building 771 predictive models, and employing SHAP for feature importance." 
+date: 2023-02-01
+venue: "Genomics, Proteomics & Bioinformatics"
+paperurl: "https://doi.org/10.1016/j.gpb.2022.06.004" 
+citation: "Ma, R., Li, S., Li, W., Yao, L., Huang, H.D. & Lee, T.Y. (2023). “KinasePhos 3.0: Redesign and expansion of the prediction on kinase‐specific phosphorylation sites.” *Genomics, Proteomics & Bioinformatics*, 21(1), 228-241."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
