@@ -1,7 +1,7 @@
 ---
 title: "Holistic similarity-based prediction of phosphorylation sites for understudied kinases"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2023-<month>-holistic-similarity-prediction-phosphorylation-sites
 excerpt: "This study demonstrates that web-like predictive networks leveraging similarity sources can reliably predict phosphorylation sites for 82 out of 116 understudied kinases, achieving balanced accuracy around ~0.81." 
 date: 2023-01-01
