@@ -1,26 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A novel integrative multimodal classifier to enhance the diagnosis of Parkinson’s disease"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-03-01-novel-integrative-multimodal-classifier-parkinsons
+excerpt: "This study developed and validated a novel integrative, multimodal predictive model for detecting Parkinson’s disease using hematological, proteomic, RNA-seq, metabolomic and DAT imaging features." 
+date: 2025-03-01
+venue: "Briefings in Bioinformatics"
+paperurl: "https://academic.oup.com/bib/article/26/2/bbaf088/8068118" 
+citation: "Zhou, X., Parisi, L., Huang, W., Zhang, Y., Huang, X., Youseffi, M., Javid, F. & Ma, R. (2025). “A novel integrative multimodal classifier to enhance the diagnosis of Parkinson’s disease.” *Briefings in Bioinformatics*, 26(2)."
 ---
-
-
----
-title: "Paper Title Number 55555, with math $$E=mc^2$$"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
