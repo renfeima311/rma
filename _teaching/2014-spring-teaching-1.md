@@ -2,7 +2,7 @@
 title: "Teaching at Shenzhen MSU-BIT University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Biology"
 date: Since 2023-07-01
 location: "Shenzhen, China"
