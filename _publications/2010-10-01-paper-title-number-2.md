@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Modelling the hepatic arterial flow in living liver donor after left hepatectomy and postoperative boundary condition exploration"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: journals
+permalink: /publication/2020-<month>-modelling-hepatic-arterial-flow-left-hepatectomy
+excerpt: "A 1-D Navier–Stokes network model was used to explore hepatic arterial flow dynamics in a living liver donor post-left hepatectomy under different boundary‐condition scenarios." 
+date: 2020-<month>-01
+venue: "International Journal for Numerical Methods in Biomedical Engineering"
+paperurl: "https://pubmed.ncbi.nlm.nih.gov/31692300/" 
+citation: "Ma, R., Hunter, P., Cousins, W., Ho, H., Bartlett, A. & Safaei, S. (2020). “Modelling the hepatic arterial flow in living liver donor after left hepatectomy and postoperative boundary condition exploration.” *Int. J. Numer. Meth. Biomed. Eng.*."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
