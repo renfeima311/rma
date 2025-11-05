@@ -1,7 +1,7 @@
 ---
 title: "A novel integrative multimodal classifier to enhance the diagnosis of Parkinson’s disease"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-03-01-novel-integrative-multimodal-classifier-parkinsons
 excerpt: "This study developed and validated a novel integrative, multimodal predictive model for detecting Parkinson’s disease using hematological, proteomic, RNA-seq, metabolomic and DAT imaging features." 
 date: 2025-03-01
